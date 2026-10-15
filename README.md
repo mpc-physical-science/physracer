@@ -1,4 +1,4 @@
-# MPC Physics PhysRacer
+# Physics Racer
 
 <img alt="picture of several people assembling LEGO, a monitor in the background displays the game interface" align="right" src="img/lego_table.png">
 
