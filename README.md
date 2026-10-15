@@ -14,4 +14,4 @@ The track itself is an [Aluminum Dynamics Track](https://www.pasco.com/products/
 
 Race results are reported to a Raspberry Pi minicomputer over a USB connection. Race times are then logged, along with user-entered nicknames, in the file highscores.txt. After recording a timing, the fastest times in race history are then displayed. The Python program [rpi/main.py](main.py) uses the [PyGame library](https://www.pygame.org/docs/) for handling video output, as well as reporting program status and execution results to STDOUT where they can be observed in a terminal.
 
-![System architecture illustration showing connections between various components](img/System_Architecure.png)
+![System architecture illustration showing connections between various components](img/System_Architecture.png)
