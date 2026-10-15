@@ -1,10 +1,11 @@
 # MPC Physics PhysRacer
 
+<img alt="picture of several people assembling LEGO, a monitor in the background displays the game interface" align="right" src="img/lego_table.png">
+
 LEGO race timing infrastructure
 
 ## About the Project
 
-<img align="left" src="img/lego_table.png">
 This project was created for Family STEM Day at [Monterey Peninsula College](https://www.mpc.edu/). Designed as a fun activity for LEGO and racing fans of all ages to participate in, it features microsecond timing accuracy and a video-game like interface for logging and displaying race timing results. Participants construct a vehicle from LEGO and race it down the ramp, with race completion times automatically measured and recorded.
 
 ## System Overview
